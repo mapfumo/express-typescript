@@ -5,6 +5,9 @@
 ### Setup
 
 ```bash
+md myProject
+cd myProject
+npm init -y
 npm install -D typescript
 npm install -D @types/express # type inference
 npm install -D nodemon
